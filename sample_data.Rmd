@@ -269,7 +269,7 @@ library(mice)
 boxplot(sample_clean_dataset$capital_gain)
 boxplot(sample_clean_dataset$capital_gain)$out
 ```
-#s
+#OUTLIERS
 ```{r}
 library(dlookr)
 library(mice)
